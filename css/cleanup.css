@@ -1,1 +1,26 @@
 /* write your override styles here */
+body{
+
+    background-color: red;
+}
+h1{
+    color: brown;
+}
+#wall{
+    position: absolute;
+    right: auto;
+}
+.parent{
+    position: absolute;
+    right: auto;
+}
+div{
+    background: local;
+}
+
+button{
+    border-radius: 900px;
+}
+iframe{
+    background: blueviolet;
+}
